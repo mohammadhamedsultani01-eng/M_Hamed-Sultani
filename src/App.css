@@ -1,0 +1,129 @@
+/* Home */
+
+.show {
+    font-family: serif;
+    font-weight: 800;
+    text-shadow: 50px;
+}
+
+.show1 {
+    background-color: rgb(254, 0, 127);
+}
+
+
+/* watches */
+
+.inform {
+    height: 565px;
+    width: 100%;
+    text-align: center;
+    font-family: serif;
+    font-weight: lighter;
+    background-image: url(../public/asest/10.jpg);
+    position: relative;
+}
+
+.img {
+    position: absolute;
+    text-align: center;
+    top: 130px;
+    left: 240px;
+    color: white;
+    background-color: rgb(0, 0, 0, 0.8);
+    border-radius: 20px;
+    padding: 40px;
+    border: 1px solid white;
+    box-shadow: 0px 0px 10px 10px black;
+}
+
+.en {
+    font-size: 50px;
+    color: whitesmoke;
+    box-shadow: 5px 30px 60px 40px rgb(11, 2, 135);
+    border-radius: 10px;
+}
+
+.buttons {
+    position: absolute;
+    top: 400px;
+    width: 100%;
+}
+
+.btn1,
+.btn2 {
+    padding: 5px 20px 5px 20px;
+    margin: 1px;
+    border-radius: 10px;
+    font-size: 35px;
+    background-color: rgb(0, 0, 0, 0.5);
+    color: white;
+    border: 1px solid white;
+    box-shadow: 5px 30px 60px 10px rgb(11, 2, 135);
+}
+
+.Big {
+    background-color: black;
+    background-image: url(../public/asest/background.jpg);
+    background-repeat: repeat;
+    background-position: center;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+.images {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../public/asest/background.jpg);
+}
+
+
+/* Registreation */
+
+.Big2 {
+    background-color: black;
+    background-image: url(../public/asest/background.jpg);
+    background-repeat: repeat;
+    background-position: center;
+    height: 100vh;
+}
+
+.R_H {
+    text-align: center;
+    justify-content: center;
+    padding: 40px;
+    background-color: rgb(0, 0, 0, 0.4);
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    margin: auto;
+    width: 800px;
+    border-radius: 20px;
+    border: 2px solid white;
+    box-shadow: 5px 30px 60px 20px rgb(255, 255, 255);
+}
+
+label {
+    font-size: 20px;
+    font-weight: 400;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 200px;
+    border-radius: 10px;
+    border: 1px solid white;
+    margin-bottom: 3px;
+    padding-left: 2px;
+}
+
+table {
+    background-color: black;
+    background-image: url(../public/asest/background.jpg);
+    background-repeat: repeat;
+    background-position: center;
+    border-radius: 20px;
+    box-shadow: 0px 0px 40px 10px black;
+    border-radius: 40px;
+}
+
+.king {
+    height: 50px;
+    background-image: url(../public/Clock/Single/27.jpg);
+}
