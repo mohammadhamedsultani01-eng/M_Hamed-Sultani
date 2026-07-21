@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import App from './Project/App'
+import App from './Todo App/ToDo'
 import 'bootstrap/dist/css/bootstrap.min.css'
 
 
