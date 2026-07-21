@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import App from './Watch_Story/O_F'
+import App from './Project/App'
 import 'bootstrap/dist/css/bootstrap.min.css'
 
 
